@@ -44,7 +44,7 @@ dependencies {
     implementation paper("1.15.2")
     implementation vault()
 
-    implementation 'me.clip:placeholderapi:2.10.6'
+    implementation 'me.clip:placeholderapi:2.10.10'
 }
 
 compileKotlin {

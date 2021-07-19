@@ -37,7 +37,7 @@ repositories {
 
 dependencies {
     compile 'org.jetbrains.kotlin:kotlin-stdlib-jdk8'
-    compile 'org.jetbrains.kotlinx:kotlinx-coroutines-core:1.4.1-native-mt'
+    compile 'org.jetbrains.kotlinx:kotlinx-coroutines-core:1.5.1-native-mt'
 
     compile 'com.okkero.skedule:skedule:1.2.6'
 
